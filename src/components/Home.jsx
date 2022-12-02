@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from '../assets/heroImage.png'
+import HeroImage from '../assets/DSC_5841sd.jpg'
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import {Link} from 'react-scroll'
 
@@ -11,12 +11,13 @@ const Home = () => {
        items-center justify-center h-full px-4 md:flex-row'>
         <div className='flex flex-col justify-center h-full'>
         <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a Frontend Developer
+            Junier React Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 1 years of experience building and desgining website.
+            I have experience building and desgining website.
             Currently, I love to work on web application using technologies like
-            React, Tailwind, Next JS , and Firebase.
+            Html, CSS, Javascript, PHP, React, Tailwind ,styeled components, Next JS , 
+            vercel and Firebase.
           </p>
           <div>
             <Link to="portfolio"
